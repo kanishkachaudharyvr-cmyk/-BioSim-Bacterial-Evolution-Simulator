@@ -1,0 +1,14 @@
+initial_population: 100
+initial_resource: 1000
+
+mutation_rate: 0.05
+generation_time: 1
+
+carrying_capacity: 1000
+
+resource_consumption: 1
+resource_replenish_rate: 5
+
+antibiotic_level: 0.1
+
+timesteps: 200
